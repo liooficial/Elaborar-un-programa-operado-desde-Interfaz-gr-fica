@@ -1,0 +1,2 @@
+# Elaborar-un-programa-operado-desde-Interfaz-gr-fica
+* Pida el titulo y nombre del autor. * El titulo se guardará un en archivo de texto y el nombre del autor se guardará en un archivo de texto diferente * En la misma interfaz gráfica se deberá mostrar el contenido del los archivos, leyendo ambos archivos (titulo y autor, deplegando cada contenido en un área de texto separada) para desplegarlo en la pantalla.  La edición y despliegue del contenido de los archivos se realiza desde la misma interfaz grafica (ventana)
